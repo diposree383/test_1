@@ -5,7 +5,7 @@ int main()
     double number;
     char alphabet;
 
-    printf("Enter double input :");
+   printf("Enter a double number: ");
     scanf("%lf", &number);
 
     printf("Enter character input :");
