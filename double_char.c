@@ -5,14 +5,14 @@ int main()
     double number; 
     char alphabet; 
  
-    printf("Enter double number :"); 
+    printf("Enter double value :"); 
     scanf("%lf", &number); 
  
-    printf("Enter character value :"); 
+    printf("Enter character input :"); 
     scanf("\n%c", &alphabet); 
  
     printf("Number : %lf", number); 
-    printf("\nCharacter : %c", alphabet); 
+    printf("\nYour Character : %c", alphabet); 
  
     return 0; 
 }
